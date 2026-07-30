@@ -1,0 +1,8 @@
+gradio
+spaces
+torch
+tensorflow-cpu
+scikit-learn==1.6.1
+numpy
+joblib
+nltk
